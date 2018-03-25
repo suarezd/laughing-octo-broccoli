@@ -1,0 +1,8 @@
+.env
+package.json
+phpunit.xml
+assets/
+bin/
+var/
+vendor/
+
